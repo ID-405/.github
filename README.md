@@ -1,4 +1,4 @@
-## Hi Doo Loor <img src="https://github.com/ID-405/.github/blob/master//Hi.gif" width="29px"> 
+## Hi Doo Loor <img src="https://github.com/ID-405/.github/blob/b47eba5fb77d2a32a8cc644dcd0b344d016fd002/png/20220910_201034.jpg" width="29px"> 
 
 <img src="https://img.shields.io/badge/MY GITHUB-WELCOME-76B900?style=for-the-badge&logo=github&logoColor=white" /> 
 
@@ -9,7 +9,7 @@
   can
    
 ```
-![](https://komarev.com/ghpvc/?username=405&color=red)
+![](https://komarev.com/ghpvc/?username=ID-405&color=red)
 <br>
 <p align="center">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
@@ -47,10 +47,6 @@
 ![header_](https://user-images.githubusercontent.com/77473259/128132436-d8e852dd-bc5b-41a2-9ce4-46b6aad27ad8.png)
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=ID-405&show_icons=true&theme=chartreuse-dark&locale=id">
-</p>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=KangProf&theme=dark&hide_border=true" width = 400>
-</p>
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
