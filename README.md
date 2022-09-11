@@ -1,4 +1,4 @@
-## Hi Doo Loor <img src="https://github.com/ID-405/.github/blob/b47eba5fb77d2a32a8cc644dcd0b344d016fd002/png/20220910_201034.jpg" width="29px"> 
+## Hi Doo Loor <img src="https://github.com/ID-405/.github/blob/main/png/20220910_201034.jpg" width="29px"> 
 
 <img src="https://img.shields.io/badge/MY GITHUB-WELCOME-76B900?style=for-the-badge&logo=github&logoColor=white" /> 
 
@@ -45,8 +45,6 @@
 <img align='kanan' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450" />
 
 ![header_](https://user-images.githubusercontent.com/77473259/128132436-d8e852dd-bc5b-41a2-9ce4-46b6aad27ad8.png)
-<p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=ID-405&show_icons=true&theme=chartreuse-dark&locale=id">
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
